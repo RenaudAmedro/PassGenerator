@@ -1,0 +1,10 @@
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe.config
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\bin\Debug\PassGenerator.pdb
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csprojResolveAssemblyReference.cache
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.Properties.Resources.resources
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csproj.GenerateResource.Cache
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csproj.CoreCompileInputs.cache
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.exe
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.pdb
+C:\Users\1752905\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.MainForm.resources
